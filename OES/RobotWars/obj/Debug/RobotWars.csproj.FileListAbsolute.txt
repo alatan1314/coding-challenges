@@ -1,0 +1,6 @@
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\bin\Debug\RobotWars.exe.config
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\bin\Debug\RobotWars.exe
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\bin\Debug\RobotWars.pdb
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\obj\Debug\RobotWars.csproj.CoreCompileInputs.cache
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\obj\Debug\RobotWars.exe
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\RobotWars\obj\Debug\RobotWars.pdb
