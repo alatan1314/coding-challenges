@@ -1,0 +1,7 @@
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\bin\Debug\SuperMarketKata.exe.config
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\bin\Debug\SuperMarketKata.exe
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\bin\Debug\SuperMarketKata.pdb
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\obj\Debug\SuperMarketKata.csproj.CoreCompileInputs.cache
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\obj\Debug\SuperMarketKata.exe
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\obj\Debug\SuperMarketKata.pdb
+F:\AAT Files\Visual Studio 2017\Source\repos\coding-challenges\OES\SuperMarketKata\obj\Debug\SuperMarketKata.csprojAssemblyReference.cache

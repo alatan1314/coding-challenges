@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars", "RobotWars\Robo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRobotWars", "UnitTestRobotWars\UnitTestRobotWars.csproj", "{A1C11F8F-744F-45EB-BE67-4BEBBF0E013E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketKata", "SuperMarketKata\SuperMarketKata.csproj", "{87572597-8310-482C-BCA7-7F4BC130DCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSuperMarketKata", "UnitTestSuperMarketKata\UnitTestSuperMarketKata.csproj", "{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A1C11F8F-744F-45EB-BE67-4BEBBF0E013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1C11F8F-744F-45EB-BE67-4BEBBF0E013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1C11F8F-744F-45EB-BE67-4BEBBF0E013E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87572597-8310-482C-BCA7-7F4BC130DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E00C40-6AB9-47BD-B0DE-B8E17AD54613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
